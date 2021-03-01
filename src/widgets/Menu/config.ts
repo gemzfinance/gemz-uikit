@@ -64,7 +64,7 @@ export const links = [
     ],
   },
 ];
-/*
+
 export const socials = [
   {
     label: "Telegram",
@@ -82,7 +82,7 @@ export const socials = [
     href: "https://twitter.com/GEMZ_Finance",
   },
 ];
-*/
+
 export const MENU_HEIGHT = 64;
 export const MENU_ENTRY_HEIGHT = 48;
 export const SIDEBAR_WIDTH_FULL = 240;
