@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.vikingswap.finance",
+        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8b3d4f8904794f684a34e0ca962a7aa0aa89d57f",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.vikingswap.finance/#/pool",
+        href: "https://exchange.pancakeswap.finance/#/add/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/0x8b3d4f8904794f684a34e0ca962a7aa0aa89d57f",
       },
     ],
   },
@@ -51,20 +51,20 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/gemzfinance",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://gemzfinance.gitbook.io/gemz-finance/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://gemzfinance.medium.com/",
       },
     ],
   },
 ];
-
+/*
 export const socials = [
   {
     label: "Telegram",
@@ -72,21 +72,17 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/VikingSwap",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
+        href: "https://t.me/gemzfinance",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/GEMZ_Finance",
   },
 ];
-
+*/
 export const MENU_HEIGHT = 64;
 export const MENU_ENTRY_HEIGHT = 48;
 export const SIDEBAR_WIDTH_FULL = 240;
