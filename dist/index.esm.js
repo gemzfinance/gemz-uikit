@@ -1948,7 +1948,8 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TelegramIcon: Icon$U,
     TicketIcon: Icon$V,
     TradeIcon: Icon$W,
-    TwitterIcon: Icon$X,
+    
+    Icon: Icon$X,
     HelmetIcon: Icon$Y
 });
 
@@ -1993,11 +1994,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.vikingswap.finance",
+                href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8b3d4f8904794f684a34e0ca962a7aa0aa89d57f",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.vikingswap.finance/#/pool",
+                href: "https://exchange.pancakeswap.finance/#/add/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/0x8b3d4f8904794f684a34e0ca962a7aa0aa89d57f",
             },
         ],
     },
@@ -2034,15 +2035,15 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/VikingDefi/",
+                href: "https://github.com/gemzfinance/",
             },
             {
                 label: "Docs",
-                href: "https://vikingswap.gitbook.io/viking-swap/",
+                href: "https://gemzfinance.gitbook.io/gemz-finance/",
             },
             {
                 label: "Blog",
-                href: "https://viking-swap.medium.com/",
+                href: "https://gemzfinance.medium.com/",
             },
         ],
     },
@@ -2054,18 +2055,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/VikingSwap",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/vikingswapannouncements",
+                href: "https://t.me/gemzfinance",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/vikingswap",
+        href: "https://twitter.com/GEMZ_Finance",
     },
 ];
 var MENU_HEIGHT = 64;
